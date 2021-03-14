@@ -20,7 +20,7 @@ var Stack = (function(){
 
     // Adds a value onto the end of the stack
     Stack.prototype.push = function (value) {
-        this.stack(this.top) = value
+        this.stack[this.top] = value
         this.top++
     }
 
