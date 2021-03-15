@@ -10,3 +10,20 @@
 *
 */
 
+const fibonacci = (N) => {
+    if (N === 0 || N ===1 ) return N
+
+    return fibonacci(N - 2) + fibonacci(N - 1)
+    
+}
+
+// Testing the Implementation
+(() => {
+    const number = 12
+    console.log(number + 'th Fibonacci number is ' + fibonacci(number) + '\n')
+
+    for (let i = 1; i <= 10; i++){
+        console.log (i + 'th Fibonacci number is ' + fibonacci(i))
+    }
+})()
+
