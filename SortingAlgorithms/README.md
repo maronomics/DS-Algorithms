@@ -13,3 +13,9 @@ Purpose of this Repo is to learn the basic principle of different sorting algori
 ### Insertion Sort
 
 ### Merge Sort 
+
+### Quick Sort
+
+### Heap Sort
+
+### Bucket Sort
