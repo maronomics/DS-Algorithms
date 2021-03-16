@@ -11,7 +11,7 @@ function quickSort (items){
         return items
     }
 
-    var PIVOT = item[0]
+    var PIVOT = items[0]
     var GREATER = []
     var LESSER = []
 
@@ -32,7 +32,7 @@ function quickSort (items){
 
 // Implementation
 
-var sort = [1,2,11,7,9,19,17,5]
+var sort = [3, 2, 11, 7, 13, 19, 17, 5, 41, 29, 23,37, 31]
 // Array before sorting
 console.log('Array before sort: ' + sort + '\n')
 // Array after sorting
