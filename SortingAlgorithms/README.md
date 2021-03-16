@@ -8,14 +8,22 @@ Purpose of this Repo is to learn the basic principle of different sorting algori
 
 ### Selection Sort
 
-Bubble Sort
 
-Insertion Sort
+### Bubble Sort
 
-Merge Sort
 
-Quick Sort
+### Insertion Sort
 
-Heap Sort
 
-Bucket Sort
+### Merge Sort
+
+
+### Quick Sort
+
+
+### Heap Sort
+
+
+### Bucket Sort
+
+
