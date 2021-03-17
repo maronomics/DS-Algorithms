@@ -6,10 +6,11 @@ Purpose of this Repo is to learn the basic principle of different sorting algori
 
  ## Sorting Algorithms ##
 
+
+### Quick Sort
+
+
 ### Selection Sort
-
-
-### Bubble Sort
 
 
 ### Insertion Sort
@@ -18,12 +19,11 @@ Purpose of this Repo is to learn the basic principle of different sorting algori
 ### Merge Sort
 
 
-### Quick Sort
+### Bubble Sort
 
 
 ### Heap Sort
 
 
 ### Bucket Sort
-
 
