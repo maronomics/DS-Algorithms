@@ -5,7 +5,7 @@
  *
 */
 
-function merge(left,vright){
+function merge(left,right){
     let arr = []
     // break out of the loop if any one of the array gets empty
     while (left.length && right.length){
@@ -31,7 +31,7 @@ function mergeSort(array){
     }
 
     const left = array.splice(0,half) 
-    return merge(mergeSort(left),mergeSort(right))
+    return merge(mergeSort(left),mergeSort(array))
 }
 
 // Implementation
