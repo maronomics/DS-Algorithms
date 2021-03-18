@@ -10,6 +10,8 @@ Pseudocode lookedup from GeeksforGeeks.org
 
 ### Quick Sort
 
+Time Complexity: **O(n * log n)
+
 ### Selection Sort
 
 ### Insertion Sort
