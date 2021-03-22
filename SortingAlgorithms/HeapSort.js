@@ -46,3 +46,12 @@ function heapSort(items){
 
     return items
 }
+
+
+// Implementation
+
+var sort = [3, 2, 11, 7, 13, 19, 17, 5, 41, 29, 23,37, 31]
+// Array before sorting
+console.log('Array before sort: ' + sort + '\n')
+// Array after sorting
+console.log('Array after sort: ' + heapSort(sort) + '\n')
