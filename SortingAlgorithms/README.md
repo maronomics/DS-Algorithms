@@ -22,6 +22,8 @@ Time Complexity: O(n * log n)
 
 ### Heap Sort
 
+Time Complexity: O(n log n)
+
 ### Bucket Sort
 
 Time Complexity: O(n)
