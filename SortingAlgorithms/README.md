@@ -10,7 +10,7 @@ Pseudocode lookedup from GeeksforGeeks.org
 
 ### Quick Sort
 
-Time Complexity: __O(n * log n)__
+Time Complexity: O(n * log n)
 
 ### Selection Sort
 
@@ -23,3 +23,5 @@ Time Complexity: __O(n * log n)__
 ### Heap Sort
 
 ### Bucket Sort
+
+Time Complexity: O(n)
